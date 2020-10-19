@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Shivam Rajvanshi",
+    "occupation": "Software Developer && Cloud Enthusiast",
+    "description": "Full Stack Developer by Day && Hustler by Night.",
+    "image": "IG_Sonny.jpg",
+    "bio": "My name is Shivam, I'm a Full Stack  Developer. Currently I'm working at Wipro while also learning new tech ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "shivamdldav@gmail.com",
+    "phone": "+91 12 345 6789",
+    "address": {
+      "street": "123 ABC Apt",
+      "city": "Delhi",
+      "state": "India",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shivam.rajvanshi.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shivam-rajvanshi-b9b606169/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shivamrajvanshii/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/shivam560",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Chandigarh University",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "May 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Wipro",
+        "title": "Fullstack Developer",
+        "years": "Jun 2019 - Present",
+        "description": "Making web apps"
+      },
+      {
+        "company": "Eazydiner",
+        "title": "Intern",
+        "years": "Feb 2019 - April 2019",
+        "description": "Sales and Marketing Intern"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C#",
+        "level": "100%"
+      },
+      {
+        "name": "ASP .NET",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "React",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Shivam Rajvnshi must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
